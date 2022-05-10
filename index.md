@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of Jhunior RG
 
 You can use the [editor on GitHub](https://github.com/Jhunior-RG/jhunior-rg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
